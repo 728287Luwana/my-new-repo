@@ -1,0 +1,21 @@
+h1{
+    font: size 20px; 
+     text-align: center;
+}
+h2{
+    font-size: 16px;
+}
+h1.emphasis{
+    color: #ff0000;
+}
+.emphasis{
+    font-weight: bold;
+    colour: rgb(255, 0, 162); 
+}
+.italic{
+    font-style: italic;
+}
+img{
+    display: block;
+    margin: 0;
+}
